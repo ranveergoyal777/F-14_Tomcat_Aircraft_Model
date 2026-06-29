@@ -1,6 +1,6 @@
 # F-14_Tomcat_Aircraft_Model
 
-![F-14 Tomcat](Wings_Open_Position.png)
+![F-14 Tomcat](CAD/Wings_Open_Position.png)
 
 ---
 
@@ -19,7 +19,7 @@ Simulation for both wing configurations.
 
 ## Demo
 
-![Model](Wings_Closed_Position.png)
+![Model](CAD/Wings_Closed_Position.png)
 
 [Watch Demo Video](Project_Demonstration.mp4)
 
@@ -96,8 +96,8 @@ wing configurations to study the effect of wing geometry on airflow behaviour.
 | `CAD/` | SolidWorks part and assembly files (.SLDPRT, .SLDASM) |
 | `CFD/` | Flow Simulation result plots (pressure, velocity, streamlines) |
 | `Project_Demonstration.mp4` | Wing sweep demonstration video |
-| `Wings_Open_Position.png` | SolidWorks render |
-| `3D_Print_2.png` | Model photos |
+| `CAD/Wings_Open_Position.png` | SolidWorks render |
+| `3D_Print_2.jpg` | Model photos |
 
 ---
 
